@@ -1,14 +1,17 @@
-# Mini Task 1 - PowerShell Command
+# Mini Task 1 - PowerShell Commands
+<br>
 
 Membuat folder baru bernama "folderMusik" dengan command **mkdir** (*make directory*)
 ```sh
 mkdir folderMusik
 ```
+<br>
 
 Pindah ke folder "folderMusik" dengan command **cd** (*change directory*)
 ```sh
 cd folderMusik
 ```
+<br>
 
 Membuat 10 file dengan format .mp3 dengan command **ni** (*new item*)
 ```sh
