@@ -14,50 +14,49 @@ cd folderMusik
 ```
 ```sh
 
-ni Ed\_Sheeran\_-Thinking\_Out\_Loud.mp3
+ni Ed_Sheeran_-Thinking_Out_Loud.mp3
 ```
 ```sh
 
-ni Ed\_Sheeran-Shape\_of\_You.mp3
-
-```
-
-```sh
-ni Bruno\_Mars-Grenade.mp3
+ni Ed_Sheeran-Shape_of_You.mp3
 
 ```
 
 ```sh
-ni Bruno\_Mars-Finesse.mp3
+ni Bruno_Mars-Grenade.mp3
 
 ```
 
 ```sh
-ni Ariana\_Grande-7\_rings.mp3
+ni Bruno_Mars-Finesse.mp3
 
 ```
 
 ```sh
-ni Ariana\_Grande-Into\_You.mp3
+ni Ariana_Grande-7_rings.mp3
 
 ```
 
 ```sh
-ni Billie\_Eilish-bad\_guy.mp3
+ni Ariana_Grande-Into_You.mp3
 
 ```
 
 ```sh
-ni Billie\_Eilish-WILDFLOWER.mp3
+ni Billie_Eilish-bad_guy.mp3
 
 ```
 
 ```sh
-ni The\_Weeknd-Blinding\_Lights.mp3
+ni Billie_Eilish-WILDFLOWER.mp3
 
 ```
 
 ```sh
-ni The\_Weeknd-\_Save\_Your\_Tears.mp3
+ni The_Weeknd-Blinding_Lights.mp3
+
 ```
 
+```sh
+ni The_Weeknd-_Save_Your_Tears.mp3
+```
