@@ -1,15 +1,63 @@
-# minitask 1
+# Mini Task 1
+
+
+
+```sh
 
 mkdir folderMusik
+
+```
+
+```sh
 cd folderMusik
-new-item Ed_Sheeran_-_Thinking_Out_Loud.mp3
-new-item Ed_Sheeran_-_Shape_of_You.mp3
-new-item Bruno_Mars_-_Grenade.mp3
-new-item Bruno_Mars_-_Finesse.mp3
-new-item Ariana_Grande_-_7_rings.mp3
-new-item Ariana_Grande_-_Into_You.mp3
-new-item Billie_Eilish_-_bad_guy.mp3
-new-item Billie_Eilish_-_WILDFLOWER.mp3
-new-item The_Weeknd_-_Blinding_Lights.mp3
-new-item The_Weeknd_-_Save_Your_Tears.mp3
-ls
+
+```
+```sh
+
+ni Ed\_Sheeran\_-Thinking\_Out\_Loud.mp3
+```
+```sh
+
+ni Ed\_Sheeran-Shape\_of\_You.mp3
+
+```
+
+```sh
+ni Bruno\_Mars-Grenade.mp3
+
+```
+
+```sh
+ni Bruno\_Mars-Finesse.mp3
+
+```
+
+```sh
+ni Ariana\_Grande-7\_rings.mp3
+
+```
+
+```sh
+ni Ariana\_Grande-Into\_You.mp3
+
+```
+
+```sh
+ni Billie\_Eilish-bad\_guy.mp3
+
+```
+
+```sh
+ni Billie\_Eilish-WILDFLOWER.mp3
+
+```
+
+```sh
+ni The\_Weeknd-Blinding\_Lights.mp3
+
+```
+
+```sh
+ni The\_Weeknd-\_Save\_Your\_Tears.mp3
+```
+
