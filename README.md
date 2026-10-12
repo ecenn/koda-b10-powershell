@@ -1,63 +1,25 @@
-# Mini Task 1
+# Mini Task 1 - PowerShell Command
 
-
-
+Membuat folder baru bernama "folderMusik" dengan command **mkdir** (*make directory*)
 ```sh
-
 mkdir folderMusik
-
 ```
 
+Pindah ke folder "folderMusik" dengan command **cd** (*change directory*)
 ```sh
 cd folderMusik
-
 ```
+
+Membuat 10 file dengan format .mp3 dengan command **ni** (*new item*)
 ```sh
-
-ni Ed_Sheeran_-_Thinking_Out_Loud.mp3
+ni "Ed Sheeran - Thinking Out Loud.mp3"
+ni "Ed Sheeran - Shape of You.mp3"
+ni "Bruno Mars - Grenade.mp3"
+ni "Bruno Mars - Finesse.mp3"
+ni "Ariana Grande - 7 rings.mp3"
+ni "Ariana Grande - Into You.mp3"
+ni "Billie Eilish - bad guy.mp3"
+ni "Billie Eilish - WILDFLOWER.mp3"
+ni "The Weeknd - Blinding Lights.mp3"
+ni "The Weeknd - Save Your Tears.mp3"
 ```
-```sh
-
-ni Ed_Sheeran_-_Shape_of_You.mp3
-
-```
-
-```sh
-ni Bruno_Mars_-_Grenade.mp3
-
-```
-
-```sh
-ni Bruno_Mars_-_Finesse.mp3
-
-```
-
-```sh
-ni Ariana_Grande_-_7_rings.mp3
-
-```
-
-```sh
-ni Ariana_Grande_-_Into_You.mp3
-
-```
-
-```sh
-ni Billie_Eilish_-_bad_guy.mp3
-
-```
-
-```sh
-ni Billie_Eilish_-_WILDFLOWER.mp3
-
-```
-
-```sh
-ni The_Weeknd_-_Blinding_Lights.mp3
-
-```
-
-```sh
-ni The_Weeknd_-_Save_Your_Tears.mp3
-```
-
