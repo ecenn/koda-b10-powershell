@@ -1,4 +1,4 @@
-# Mini Task 1 - PowerShell Commands
+# Materi: PowerShell Commands
 <br>
 
 Membuat folder baru bernama "folderMusik" dengan command **mkdir** (*make directory*)
